@@ -4,5 +4,5 @@
 //const vendorBData = require('./VendorB/vendorB.js');
 //console.log(vendorBData);
 
-const vendorCData = require('./VendorC/vendorC.js');
-console.log(vendorCData);
+// const vendorCData = require('./VendorC/vendorC.js');
+// console.log(vendorCData);
