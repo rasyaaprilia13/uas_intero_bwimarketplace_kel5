@@ -5,7 +5,7 @@ yang memiliki struktur JSON berbeda ke dalam satu format standar.
 
 ## Anggota Kelompok
 1. Rasya Aprilia - 362458302115 (Vendor A)
-2. Citra Resa Permata - 362458302015 (Vendor B)
+2. Citra Resa Permata - 362458302019 (Vendor B)
 3. Maulina Dwi Wahyunengtias - 36245830 (Vendor C)
 4. Nazwa RIdev Ramadhani - 362458302068 (Integrator)
 
