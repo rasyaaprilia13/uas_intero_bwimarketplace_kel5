@@ -29,3 +29,11 @@ yang memiliki struktur JSON berbeda ke dalam satu format standar.
 - Untuk testing diterminal melalui test.js
 - Hasil:
 ![hasilB](https://github.com/user-attachments/assets/4937bf55-295e-42ef-9f4e-b9a15397f677)
+
+# Mahasiswa 3 :
+- Membuat branch dan file vendor C 
+- Membuat file JavaScript bernama vendorC.js di dalam folder VendorC. Di dalamnya mendefinisikan data produk dalam bentuk array JSON dengan objek bersarang (nested object),
+  yaitu berisi details (name dan category), pricing (base_price dan tax yang dipisah), serta stock
+- Membuat/memperbarui file test.js di root directory untuk melakukan require data dari ./VendorC/vendorC.js dan menampilkan datanya ke terminal sebagai pengujian
+- Menjalankan pengujian di terminal dengan perintah node test.js. Hasil output yang berhasil ditampilkan seperti ini:
+  
