@@ -24,3 +24,8 @@ yang memiliki struktur JSON berbeda ke dalam satu format standar.
 <img width="549" height="263" alt="image" src="https://github.com/user-attachments/assets/845ff1a4-5038-4e44-88bf-6776a54f003b" />
 
 # Mahasiswa 2 :
+- Membuat branch dan file vendor B
+- Membuat data produk JSON, menggunakan bahasa inggris dan CamelCase : tipe data number/int, boolean, dan string
+- Untuk testing diterminal melalui test.js
+- Hasil:
+![hasilB](https://github.com/user-attachments/assets/4937bf55-295e-42ef-9f4e-b9a15397f677)
