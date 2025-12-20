@@ -32,11 +32,13 @@ yang memiliki struktur JSON berbeda ke dalam satu format standar.
 
 # Mahasiswa 3 :
 - Membuat branch dan file vendor C 
-- Membuat file JavaScript bernama vendorC.js di dalam folder VendorC. Di dalamnya mendefinisikan data produk dalam bentuk array JSON dengan objek bersarang (nested object),
+- Membuat file bernama vendorC.js di dalam folder VendorC. Di dalamnya mendefinisikan data produk dalam bentuk array JSON dengan objek bersarang (nested object),
   yaitu berisi details (name dan category), pricing (base_price dan tax yang dipisah), serta stock. Menggunakan tipe data campuran yaitu number untuk id, base_price, tax,
-  dan stock yaitu string untuk name dan category.
+  dan stock yaitu string untuk name dan category. Menggunakan module.exports agar data bersifat reusable (dapat dipanggil di file lain)
 - Membuat/memperbarui file test.js di root directory untuk melakukan require data dari ./VendorC/vendorC.js dan menampilkan datanya ke terminal sebagai pengujian
 - Menjalankan pengujian di terminal dengan perintah node test.js dan memvalidasi output di terminal untuk memastikan seluruh struktur nested (objek dalam objek) muncul dengan benar. Hasil output yang berhasil ditampilkan:
-  <img width="231" height="74" alt="image" src="https://github.com/user-attachments/assets/902ac953-0fab-4738-b602-ef9a345bd014" />
+  
+  <img width="275" height="86" alt="image" src="https://github.com/user-attachments/assets/251730e1-629f-45e5-902a-faad8a5964d1" />
+
 
   
