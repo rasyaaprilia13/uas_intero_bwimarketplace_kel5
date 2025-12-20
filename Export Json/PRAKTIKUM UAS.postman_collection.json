@@ -1,0 +1,90 @@
+{
+	"info": {
+		"_postman_id": "e893f90c-9ccf-4ce5-bca7-d04d687f3783",
+		"name": "PRAKTIKUM UAS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47946418",
+		"_collection_link": "https://nazwa-ramadhani-s-team.postman.co/workspace/Team-Workspace~f885badf-78ff-4c07-840e-41432b8a9e51/collection/47946418-e893f90c-9ccf-4ce5-bca7-d04d687f3783?action=share&source=collection_link&creator=47946418"
+	},
+	"item": [
+		{
+			"name": "all product",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3100/products",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3100",
+					"path": [
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "vendor A",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3100/vendorA",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3100",
+					"path": [
+						"vendorA"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "vendor B",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3100/vendorB",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3100",
+					"path": [
+						"vendorB"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "vendor C",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3100/vendorC",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3100",
+					"path": [
+						"vendorC"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
