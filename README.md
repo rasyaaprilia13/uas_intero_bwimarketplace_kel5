@@ -40,5 +40,17 @@ yang memiliki struktur JSON berbeda ke dalam satu format standar.
   
   <img width="275" height="86" alt="image" src="https://github.com/user-attachments/assets/251730e1-629f-45e5-902a-faad8a5964d1" />
 
+# Mahasiswa 4 :
+- Membuat branch integrator dan Folder integrator
+- Membuat file integrator.js untuk menggabungkan data dari Vendor A, Vendor B, dan Vendor C
+- Menerapkan logika
+1. logika diskon 10% untuk produk dari Vendor A
+2. Mengonversi field nilai harga menjadi integer
+3. Menambahkan label "(Recommended)" pada nama produk dari Vendor C dengan kategori Food
+- Membuat file server.js untuk endpoint yang menampilkan hasil integrasi data di Postman sebagai pengujian dengan metode GET
+- Hasil output integrasi data berhasil ditampilkan sebagai berikut :
+<img width="931" height="628" alt="image" src="https://github.com/user-attachments/assets/f3f06826-4933-4d47-9ecf-78bdf0f15dbf" />
+
+
 
   
